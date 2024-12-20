@@ -20,3 +20,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# npm stuff
+node_modules/*
+package-lock.json
+package.json
